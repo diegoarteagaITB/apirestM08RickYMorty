@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RestApi</string>
+    <string name="shopping_cart_content_desc">description\n</string>
+</resources>
